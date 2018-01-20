@@ -1,7 +1,0 @@
-
-Testdatei
-
-test1 - schreiben von webinterface
-test1 - schreiben von webinterface2
-
-test2 - schreiben von computer
